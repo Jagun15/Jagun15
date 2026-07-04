@@ -87,8 +87,54 @@ Full Stack Developer | AI Enthusiast | ServiceNow Certified | CSBS Student
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Jagun15&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jagun15&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jagannath12072006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jagun15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📜 Certifications
+
+- 🏆 ServiceNow Certified System Administrator (CSA)
+- 🎓 NPTEL Certifications
+- 📚 Continuous Learning through Online Courses
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ them.
+
+Happy Coding! 🚀
+
+</p>
