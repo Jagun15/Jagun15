@@ -68,16 +68,14 @@ Full Stack Developer | AI Enthusiast | ServiceNow Certified | CSBS Student
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagun15&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagun15&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jagun15&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jagun15&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jagun15&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Jagun15&theme=tokyonight"/>
 </p>
 
 ---
