@@ -83,7 +83,7 @@ Full Stack Developer | AI Enthusiast | ServiceNow Certified | CSBS Student
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/Jagannath U">
+<a href="https://www.linkedin.com/in/jagannath-u-839a35325?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
