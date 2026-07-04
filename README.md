@@ -24,3 +24,71 @@ Full Stack Developer | AI Enthusiast | ServiceNow Certified | CSBS Student
 - ⚡ Love solving real-world problems through software
 
 ---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode&theme=dark"/>
+
+</p>
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📰 **Fake News Detection System** | AI-powered fake news detection using Machine Learning | Python • Flask • ML |
+| 🛒 **Supermarket Stock Management System** | Inventory, Billing, PDF Invoice & Dashboard | React • Node.js • MongoDB |
+| 🛡 **Renewable Smart Helmet** | Smart helmet using renewable energy concepts | IoT • AI |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
