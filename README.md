@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jagannath</h1>
+<h1 align="center">Hi 👋, I'm Jagannath U</h1>
 
 <h3 align="center">
 Full Stack Developer | AI Enthusiast | ServiceNow Certified | CSBS Student
@@ -69,9 +69,9 @@ Full Stack Developer | AI Enthusiast | ServiceNow Certified | CSBS Student
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagun15&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagun15&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -79,7 +79,7 @@ Full Stack Developer | AI Enthusiast | ServiceNow Certified | CSBS Student
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Jagun15&theme=tokyonight"/>
 
 </p>
 
