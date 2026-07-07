@@ -65,9 +65,7 @@ Full Stack Developer | AI Enthusiast | ServiceNow Certified | CSBS Student
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jagun15&theme=tokyonight"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Jagun15&theme=tokyonight"/> </p>
 
 ---
 
